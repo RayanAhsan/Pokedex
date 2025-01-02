@@ -1,5 +1,8 @@
 Explore, manage, and create your personalized Pokémon collection with Pokedex—a full-stack web application that combines functionality, navigation, and real-time interactivity.
 
+![Untitled design](https://github.com/user-attachments/assets/165344ab-1027-4aaf-acd2-75a4c2db8c2c)
+
+
 🌟 Key Features
 
 -Pokémon Encyclopedia: Fetch data from the PokeAPI to display detailed Pokémon stats and abilities.
